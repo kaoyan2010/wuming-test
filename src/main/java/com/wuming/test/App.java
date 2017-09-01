@@ -10,7 +10,7 @@ public class App {
 	}
 
 	public static void firstFun() {
-		System.out.println("第一个函数");
+		System.out.println("第1个函数");
 	}
 
 	public static void secondFun() {
