@@ -1,7 +1,11 @@
 package com.wuming.test;
 
 /**
+<<<<<<< HEAD
  * Hello world!3335556660904
+=======
+ * Hello world!3335556660903
+>>>>>>> refs/remotes/origin/branch-0903
  *
  */
 public class App {
