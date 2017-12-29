@@ -11,6 +11,7 @@ package com.wuming.test;
 public class App {
 	public static void main(String[] args) {
 		System.out.println("Hello World!哈哈");
+		System.out.println("这是版本2");
 	}
 
 	public static void firstFun() {
